@@ -1,0 +1,23 @@
+{
+  "name": "YOCO-BACKEND-TEST",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zikisacalesogaxa/Yoco-Backend-Tech-Test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zikisacalesogaxa/Yoco-Backend-Tech-Test/issues"
+  },
+  "homepage": "https://github.com/zikisacalesogaxa/Yoco-Backend-Tech-Test#readme",
+  "dependencies": {
+    "mocha": "^7.1.0"
+  }
+}
